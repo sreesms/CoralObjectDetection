@@ -11,5 +11,4 @@ From Host computer execute :
  
 ## To do the object detection execute this in the Coral Development board :
 
-python3 object_detection.py --model ~/CoralObjectDetection/detect_edgetpu.tflite \
---input ~/parrot.jpg
+python3 object_detection.py --model ~/CoralObjectDetection/detect_edgetpu.tflite --input ~/parrot.jpg
